@@ -1,0 +1,3 @@
+/Users/patrycja/CLionProjects/zjazd10/cmake-build-debug/CMakeFiles/zjazd10.dir
+/Users/patrycja/CLionProjects/zjazd10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patrycja/CLionProjects/zjazd10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
